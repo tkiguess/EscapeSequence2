@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62a10280-1594-4208-a80b-658b8f2ee4a6" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/escapesequences2/Escape2.class" afterPath="$PROJECT_DIR$/out/production/escapesequences2/Escape2.class" />
-      <change beforePath="$PROJECT_DIR$/src/Escape2.java" afterPath="$PROJECT_DIR$/src/Escape2.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -236,12 +233,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531342068860</updated>
-      <workItem from="1531342098937" duration="1630000" />
+      <workItem from="1531342098937" duration="1784000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1630000" />
+    <option name="totallyTimeSpent" value="1784000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
